@@ -4,10 +4,7 @@ In the project directory, you can run:
 
 ### `yarn install` or `npm install`
 
-Run command after cloning repo for instalation all dependencies.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Run this command after cloning repo for instalation all dependencies.
 
 ### `yarn start` or `npm run start`
 
